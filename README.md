@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Naveen Goud Edgi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" scr="https://tse2.mm.bing.net/th?id=OIP.o_ilKFHt21t3KjPlG8a8zAHaFj&pid=Api&P=0">
-- 🔭 I’m currently working on [my portfolio](https://naveen7674.github.io/Naveen-Goud/)
+- 🔭 I’m currently working on [my portfolio](https://github.com/naveen7674)
 
 - 👨‍💻 All of my projects are available at [https://github.com/naveen7674](https://github.com/naveen7674)
 
