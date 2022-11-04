@@ -1,9 +1,9 @@
-[![MasterHead](https://tse3.mm.bing.net/th?id=OIP.uu_2WOK0i3fEYUG3gAcqfAHaFS&pid=Api&P=0
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
 )](https://github.com/naveen7674
 )
 <h1 align="center">Hi 👋, I'm Naveen Goud Edgi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" scr="https://tse2.mm.bing.net/th?id=OIP.o_ilKFHt21t3KjPlG8a8zAHaFj&pid=Api&P=0">
+<img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [my portfolio](https://github.com/naveen7674)
 
 - 👨‍💻 All of my projects are available at [https://github.com/naveen7674](https://github.com/naveen7674)
