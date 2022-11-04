@@ -2,7 +2,7 @@
 )](https://github.com/naveen7674
 )
 <h1 align="center">Hi 👋, I'm Naveen Goud Edgi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Wed developer</h3>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/naveen7674)
 
